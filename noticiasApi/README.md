@@ -4,7 +4,7 @@ Proyecto realizado en **React** , utilice **MUI** , **useState**, **useContext**
 
 ## Deploy
 
-[Link a la pagina](https://guitar-la-remix-puce.vercel.app/)
+[Link a la pagina](https://cozy-baklava-a78216.netlify.app/)
 
 ## Capturas
 
@@ -12,8 +12,6 @@ Proyecto realizado en **React** , utilice **MUI** , **useState**, **useContext**
 ![screen1](https://raw.githubusercontent.com/eapepe0/Buscador-Noticias/tree/main/noticiasApi/screen1.jpg)
 ![screen2](https://raw.githubusercontent.com/eapepe0/Buscador-Noticias/tree/main/noticiasApi/screen2.jpg)
 ![screen3](https://raw.githubusercontent.com/eapepe0/Buscador-Noticias/tree/main/noticiasApi/screen3.jpg)
-![screen4](https://raw.githubusercontent.com/eapepe0/Buscador-Noticias/tree/main/noticiasApi/screen4.jpg)
-![screen5](https://raw.githubusercontent.com/eapepe0/Buscador-Noticias/tree/main/noticiasApi/screen5.jpg)
 
 ## Performance
 
